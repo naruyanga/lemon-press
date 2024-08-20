@@ -1,0 +1,18 @@
+.container {
+  font-size: 24px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+#background {
+  background-color: #c1d72e;
+  height: 100vh;
+  width: 100vw;
+}
+#hangman {
+  font-size: 60px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
